@@ -1,0 +1,26 @@
+{
+  "name": "@edwinspire/browserstorage",
+  "version": "1.0.0",
+  "description": "Browser Storage",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+      "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinspire/BrowserStorage.git"
+  },
+  "keywords": [
+    "localstorage",
+    "sessionstorage",
+    "stoarge",
+    "browser"
+  ],
+  "author": "edwinspire@gmail.com",
+  "license": "LGPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/edwinspire/BrowserStorage/issues"
+  },
+  "homepage": "https://github.com/edwinspire/BrowserStorage#readme"
+}
