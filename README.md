@@ -1,0 +1,2 @@
+# BrowserStorage
+Manager browser storage
